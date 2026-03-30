@@ -61,11 +61,11 @@ npx tsx src/index.ts <command>
 
 CLI Commands
 Command	Description
-list	List all products
-add <name> <price> [description]	Add a new product
-get <id>	Get product by ID
-update <id> <name> <price> [description]	Update product
-delete <id>	Delete product by ID
+- list	List all products
+- add <name> <price> [description]	Add a new product
+- get <id>	Get product by ID
+- update <id> <name> <price> [description]	Update product
+- delete <id>	Delete product by ID
 
 
 By Miqdad Boom :)
